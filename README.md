@@ -1,3 +1,2 @@
 # example
-An example repository
-Soon there will be changes in here :)
+An example repository. Soon there will be changes in here :)
